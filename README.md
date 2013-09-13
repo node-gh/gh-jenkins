@@ -2,7 +2,7 @@
 
 ![Jenktocat](http://zno.io/RMca/jenktocat.png)
 
-NodeGH plugin for Jenkins integration.
+NodeGH plugin for integrating [Jenkins](http://jenkins-ci.org/), a continous integration server.
 
 > Maintained by [Your Name](https://github.com/yourname).
 
