@@ -1,4 +1,4 @@
-# GH Jenkins [![Build Status](https://secure.travis-ci.org/node-gh/gh-jenkins.png?branch=master)](https://travis-ci.org/node-gh/gh-jenkins) [![NPM version](https://badge.fury.io/js/gh-jenkins.png)](http://badge.fury.io/js/gh-jenkins) [![Dependency Status](https://david-dm.org/node-gh/gh-jenkins.png)](https://david-dm.org/node-gh/gh-jenkins)
+# GH Jenkins [![Build Status](https://secure.travis-ci.org/node-gh/gh-jenkins.svg?branch=master)](https://travis-ci.org/node-gh/gh-jenkins) [![NPM version](https://badge.fury.io/js/gh-jenkins.svg)](http://badge.fury.io/js/gh-jenkins) [![Dependency Status](https://david-dm.org/node-gh/gh-jenkins.svg?theme=badge.io)](https://david-dm.org/node-gh/gh-jenkins)
 
 ![Jenktocat](http://zno.io/RMca/jenktocat.png)
 
